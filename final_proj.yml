@@ -1,0 +1,11 @@
+name: final_proj
+channels:
+- conda-forge
+dependencies:
+- python=3.8.5
+- scipy
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- xlrd
